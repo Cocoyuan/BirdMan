@@ -1,0 +1,18 @@
+** model
+- SpriteModel implements Serializable 
+  description : element in games 
+- Image 
+- Audio
+
+** view
+- global view
+- all the elements in java swing like JFrame
+
+** controller
+- global controller
+
+** action 
+- drag
+  panGestureRecognizer
+
+
